@@ -1,4 +1,4 @@
-# 123
+# sudo remixd -s /home/(your VM name)/ -u https://remix.ethereum.org/
 ##TEST
 
 // SPDX-License-Identifier: MIT
